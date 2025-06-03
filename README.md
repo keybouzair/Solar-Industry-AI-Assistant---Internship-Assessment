@@ -4,6 +4,10 @@ An AI-powered Streamlit app that analyzes rooftop solar potential using uploaded
 
 ---
 
+[Linked Profile ](https://www.linkedin.com/in/mohd-uzair-22813523b/).
+
+[Linked Profile ](https://www.linkedin.com/posts/mohd-uzair-22813523b_ai-solarenergy-sustainability-activity-7335677121320648704-E6bT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADukUgABMXI9sv86jLD8Qm1lDtPa5yonLug).
+
 ## 🚀 Features
 
 - 📷 Upload or link rooftop images (manual area input)
@@ -14,10 +18,7 @@ An AI-powered Streamlit app that analyzes rooftop solar potential using uploaded
 
 ---
 
-## 📸 Demo
-
-<img src="https://www.linkedin.com/posts/mohd-uzair-22813523b_ai-solarenergy-sustainability-activity-7335677121320648704-E6bT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADukUgABMXI9sv86jLD8Qm1lDtPa5yonLug" width="700"/>
-
+## 📸 Demo https://www.linkedin.com/posts/mohd-uzair-22813523b_ai-solarenergy-sustainability-activity-7335677121320648704-E6bT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADukUgABMXI9sv86jLD8Qm1lDtPa5yonLug
 ---
 
 ## 📦 Setup Instructions
